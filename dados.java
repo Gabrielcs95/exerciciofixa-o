@@ -1,4 +1,4 @@
-package ResumoProva;
+
 import java.util.Scanner;
 public class dados {
     public static void main(String[] args) {

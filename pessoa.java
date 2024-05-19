@@ -1,4 +1,4 @@
-package ResumoProva;
+
 
 public class pessoa {
     String nomeFunc;
